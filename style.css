@@ -1,0 +1,52 @@
+nav {
+    display:flex;
+    /* work on placing musigo on the left and links on the right */
+}
+nav ul {
+    /* use flex to get the ul to be horizontal */
+    display: flex;
+}
+
+section {
+    height: 800px;
+    background-color:rgb(0, 0, 0);
+    background-image: url("images/Frame\ 11832.png");
+    font-family: 'Montserrat', sans-serif;
+    
+}
+  
+.hero {
+    background-image: url("/images/Frame\ 1181\ \(2\).png");
+    background-color:purple;
+}
+
+.about {
+    background-color:darkslateblue;
+    background-image: url("images/Frame\ 1182\ \(1\).png")
+}
+
+.Featured {
+    background-color: black;
+    background-image: url("images/Frame\ 11832.png")
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Rock Salt', cursive;
+    font-size: 40px;
+  }
+  
+  h2 {
+    text-align: center;
+    color: white;
+    font-family: 'Rock Salt', cursive;
+    font-size: 40px;
+  }
+  
+  h3 {
+    text-align: center;
+    color: white;
+    font-family: 'Rock Salt', cursive;
+    font-size: 40px;
+  }
